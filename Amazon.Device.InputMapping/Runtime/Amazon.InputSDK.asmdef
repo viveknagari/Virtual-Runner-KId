@@ -1,0 +1,7 @@
+{
+    "name": "Amazon.InputSDK",
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ]
+}

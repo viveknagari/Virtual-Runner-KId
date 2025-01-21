@@ -1,0 +1,12 @@
+{
+    "name": "com.amazon.device.inputmapping",
+    "version": "1.0.1",
+    "displayName": "Amazon InputSDK",
+    "description": "The Amazon Input SDK provides a way to display help dialogs to users of your app, which explain how to use your app with a keyboard and mouse.",
+    "unity": "2017.4",
+    "author": {
+      "name": "Aswin Rajeev",
+      "email": "aswinraa@amazon.com",
+      "url": "https://developer.amazon.com/apps-and-games"
+    }
+  }
